@@ -1,3 +1,5 @@
+//main page which you need to run in order to run springboot
+
 package com.example.projectname;
 
 import org.springframework.boot.SpringApplication;
